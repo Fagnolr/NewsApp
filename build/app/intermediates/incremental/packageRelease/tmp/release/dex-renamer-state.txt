@@ -1,0 +1,4 @@
+#Fri Dec 03 08:11:08 CET 2021
+base.0=/Users/romainfagnola/Documents/Flutter_project/newsapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
